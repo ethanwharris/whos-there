@@ -1,4 +1,4 @@
-dependencies = ["torch", "pytorch-lightning"]
+dependencies = ["torch", "pytorch_lightning"]
 
 from whos_there.callback import NotificationCallback as _NotificationCallback
 
